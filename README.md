@@ -111,7 +111,7 @@ When editing, change `SKILL.md` first and keep `CLAUDE.md` and the Cursor rule i
 - [Jarred](https://x.com/jarredsumner/status/2117079330035728578): supervise by sampling the diff, like pausing a debugger
 - [@zhao_spenc](https://x.com/zhao_spenc/status/2117073400938270930), [@perperp_er](https://x.com/perperp_er/status/2117063323820900649): indices survive reallocation and serialize almost for free
 - [@dhillonpost](https://x.com/dhillonpost/status/2117088944831770728), [@John_zhong324](https://x.com/John_zhong324/status/2117070275070288176): benchmark cache removal with repeated lookups; weigh invalidation vs recomputation
-- [@akashc777](https://x.com/akashc777): removing a Redis removes an ops burden for self-hosted customers
+- [@akashc777](https://x.com/akashc777/status/2117064561262215281): removing a Redis removes an ops burden for self-hosted customers
 - [@kimindiehacker](https://x.com/kimindiehacker/status/2117081654653255937): DOD can hurt readability, so keep it to hot paths
 
 ## License

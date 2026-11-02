@@ -101,7 +101,7 @@ cp -r claude-data-oriented-skills/skills/data-oriented-perf ~/.agents/skills/
 - [Jarred](https://x.com/jarredsumner/status/2117079330035728578)：边做边抽查 diff，像反复暂停调试器
 - [@zhao_spenc](https://x.com/zhao_spenc/status/2117073400938270930)、[@perperp_er](https://x.com/perperp_er/status/2117063323820900649)：索引在数组重新分配后依然有效，序列化几乎零成本
 - [@dhillonpost](https://x.com/dhillonpost/status/2117088944831770728)、[@John_zhong324](https://x.com/John_zhong324/status/2117070275070288176)：删缓存前用包含重复查询的负载测试，权衡失效成本和重算成本
-- [@akashc777](https://x.com/akashc777)：去掉 Redis，自托管的客户就少了一项运维负担
+- [@akashc777](https://x.com/akashc777/status/2117064561262215281)：去掉 Redis，自托管的客户就少了一项运维负担
 - [@kimindiehacker](https://x.com/kimindiehacker/status/2117081654653255937)：面向数据的设计可能影响可读性，只用在热点上
 
 ## 许可证
