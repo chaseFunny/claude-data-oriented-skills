@@ -1,0 +1,11 @@
+{
+  "name": "claude-data-oriented-skills",
+  "description": "Data-oriented performance optimization for coding agents: profile first, flat arrays and indices, packed bits, struct-of-arrays, redesign instead of caching. Inspired by Jarred Sumner's prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "claude-data-oriented-skills contributors"
+  },
+  "license": "MIT",
+  "keywords": ["performance", "data-oriented-design", "optimization", "skills"],
+  "skills": ["./skills/data-oriented-perf"]
+}

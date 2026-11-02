@@ -1,0 +1,20 @@
+{
+  "name": "claude-data-oriented-skills",
+  "owner": {
+    "name": "claude-data-oriented-skills contributors"
+  },
+  "metadata": {
+    "description": "Data-oriented performance optimization skills for coding agents",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-data-oriented-skills",
+      "source": "./",
+      "description": "Profile first, then fix data layout: flat arrays, indices over pointers, packed bits, SoA vs AoS, redesign instead of caching. Benchmark every change.",
+      "version": "1.0.0",
+      "keywords": ["performance", "data-oriented-design", "optimization"],
+      "category": "workflow"
+    }
+  ]
+}
